@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "chalk";
+  src: url("./assets/fonts/chalk.ttf") format("truetype");
+}
+
+body {
+  font-family: "chalk";
+}
